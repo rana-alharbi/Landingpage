@@ -1,5 +1,5 @@
 
-import Logo from './../public/image/logo-investech.png'
+import Logo from '../public/logo-investech.png'
 import './Navbar.css'
 import React from 'react';
 export default function Navbar() {
