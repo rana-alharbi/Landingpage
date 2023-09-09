@@ -1,12 +1,12 @@
 
-import Logo from '../public/logo-investech.png'
+// import Logo from '../public/logo-investech.png'
 import './Navbar.css'
 import React from 'react';
 export default function Navbar() {
     return (
         <div className='root'>
             <li className="navbar-logo" >
-                <img src={Logo} alt='logo' className='logo' />
+                <img src={"../public/logo-investech.png"} alt='logo' className='logo' />
             </li>
             <nav>
 
