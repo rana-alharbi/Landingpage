@@ -6,7 +6,7 @@ export default function Navbar() {
     return (
         <div className='root'>
             <li className="navbar-logo" >
-                <img src={"../public/logo-investech.png"} alt='logo' className='logo' />
+                <img src={"./logo-investech.png"} alt='logo' className='logo' />
             </li>
             <nav>
 
